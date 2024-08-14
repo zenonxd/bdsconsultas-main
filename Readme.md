@@ -139,6 +139,7 @@ SOUT console:
 
 ![img_20.png](img_20.png)
 
+
 ### 2602 - SQL
 
 No SQL usamos no Repository a "consulta raiz", conforme pode ser observado no parâmetro do @Query.
